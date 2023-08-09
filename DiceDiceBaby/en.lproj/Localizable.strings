@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  DiceDiceBaby
+
+  Created by glnygl on 1.08.2023.
+  
+*/
+
+"start" = "Tap a Dice to Start";
+"purpleTurn" = "Its Purple Turn";
+"pinkTurn" = "Its Pink Turn";
+"pinkWin" = "Pink Win";
+"purpleWin" = "Purple Win";
+"tie" = "It's a Tie";
